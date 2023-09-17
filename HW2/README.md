@@ -1,4 +1,4 @@
-### Homework 2
+# Homework 2
 
 This homework covered some introductory topics of probability and statistics with 2 collab notebooks. 
 
