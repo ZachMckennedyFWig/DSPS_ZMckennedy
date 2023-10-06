@@ -1,4 +1,4 @@
-# Homework 2
+# Homework 3
 
 This homework covered a bunch of topics including: Data injestion, data correction, data filtering, KS tests and some magical Harmonic Mean rescaling. The main goal of this paper was replicating parts of the the ["Statistical Tests fo Scaling In the Inter-Event Times of Earthquakes In California"](https://arxiv.org/pdf/0910.0055.pdf) Paper by Corral. 
 
