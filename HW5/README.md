@@ -1,10 +1,13 @@
 # Homework 4
 
-This homework explored 
+## What was this homework about? 
+This homework explored fitting models using different models such as Linear Regression and MCMC. 
 
-I think that the hardest part of this assignment for me was properly creating the error plots with all the information that was required in them. 
+## What was the hardest part? 
+The hardest part of this for me was debugging the plots since I was accidentally using the same variable names in some parts, which made crazy graphs that made no sense so I had to comb through all the early cells to debug what I was doing wrong. 
 
-I really enjoyed going through it again for the Milky way section and just being able to reuse all the functions that i had made in the earlier parts!!
+## What was the easiest part? 
+The easiest part was probably the Data aquisition and the MCMC since we've gotten plenty of help in class with both of those things so it was really just a matter of copy and pasting, then interpretating. 
 
-I worked on this with Jensen Gaither, Jensen did the beginning section of data collection and calculating the size and error of M31, I did the luminousity filtering, data visualization, and copy and pasted the earlier parts for the Milky Way section. 
-
+## Collaboration: 
+I worked on this with Jensen Gaither, he did the beginning section up to the Chi2 function and I did everything after that to the end. 
