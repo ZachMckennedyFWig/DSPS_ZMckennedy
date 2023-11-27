@@ -1,12 +1,12 @@
 # Part 1
 
-**Good Plot:** \
+**Good Plot:**  
 
 ![Good Image](https://github.com/ZachMckennedyFWig/DSPS_ZMckennedy/blob/d5320e6356d4e5aaf15580052e3521a2e60a27fc/HW8/GoodPlot.PNG)
 
 This is the good plot that I chose, taken from Pg 6 of [this paper](https://arxiv.org/pdf/2311.13015.pdf) about morality risk scores for critical care patients. This is a good example of a well made graph because of the limited chart junk, clear representation of the data, aligned scales for the accuracy and precisions, and no dublicated information.  
 
-**Bad Plot:** \
+**Bad Plot:**  
 
 ![Bad Image](https://github.com/ZachMckennedyFWig/DSPS_ZMckennedy/blob/d5320e6356d4e5aaf15580052e3521a2e60a27fc/HW8/BadPlot.PNG)
 
