@@ -1,6 +1,6 @@
 # Part 1
 
-**Good Plot:**
+**Good Plot:**\n
 
 ![Good Image](https://github.com/ZachMckennedyFWig/DSPS_ZMckennedy/blob/d5320e6356d4e5aaf15580052e3521a2e60a27fc/HW8/GoodPlot.PNG)
 
