@@ -1,5 +1,7 @@
 # Homework 9
 
+NOTE: I did up to the random search before the due date, but it didn't finish running before the submission time. I am still going to post the completed notebook as a seperate file once it does finish for future reference though. 
+
 ## What was this homework about? 
 This homework was using a dataset from kaggle, specifically the higgs boson search, where we had to classify the signal using both random forests and gradient boosted classification. 
 
